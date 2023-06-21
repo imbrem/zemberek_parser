@@ -15,7 +15,7 @@ setup(
     name='zemberek_parser',
     version='1.1.3',
     packages=find_packages(),
-    url='https://github.com/kemalcanbora/zemberek_parser',
+    url='https://github.com/imbrem/zemberek_parser',
     license='BSD',
     package_data={'': ['*.jar', '*.xml', '*.txt']},
     author='Kemalcan Bora',
